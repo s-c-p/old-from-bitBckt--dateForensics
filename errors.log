@@ -1,0 +1,63 @@
+ERROR:root:Suppressed error at: [WinError 3] The system cannot find the path specified: '.........\\viewstate MAC failed. If this application is hosted by a Web Farm or cluster, ensure that _machineKey_ configuration specifies the same validationKey and validation algorithm. AutoGenerate cannot be used in a cluster._.html'
+Traceback (most recent call last):
+  File "dateCheck.py", line 55, in process
+    details = dateFunc(aFile, humanize=True)
+  File "dateCheck.py", line 40, in lastAccess
+    x = op.getatime(absFilePath)
+  File "C:\Program Files\Python36-32\lib\genericpath.py", line 60, in getatime
+    return os.stat(filename).st_atime
+FileNotFoundError: [WinError 3] The system cannot find the path specified: '.........\\viewstate MAC failed. If this application is hosted by a Web Farm or cluster, ensure that _machineKey_ configuration specifies the same validationKey and validation algorithm. AutoGenerate cannot be used in a cluster._.html'
+ERROR:root:Suppressed error at: [WinError 3] The system cannot find the path specified: '.........\\viewstate MAC failed. If this application is hosted by a Web Farm or cluster, ensure that _machineKey_ configuration specifies the same validationKey and validation algorithm. AutoGenerate cannot be used in a cluster._.html'
+Traceback (most recent call last):
+  File "dateCheck.py", line 55, in process
+    details = dateFunc(aFile, humanize=True)
+  File "dateCheck.py", line 44, in lastModify
+    x = op.getmtime(absFilePath)
+  File "C:\Program Files\Python36-32\lib\genericpath.py", line 55, in getmtime
+    return os.stat(filename).st_mtime
+FileNotFoundError: [WinError 3] The system cannot find the path specified: '.........\\viewstate MAC failed. If this application is hosted by a Web Farm or cluster, ensure that _machineKey_ configuration specifies the same validationKey and validation algorithm. AutoGenerate cannot be used in a cluster._.html'
+ERROR:root:Suppressed error at: [WinError 3] The system cannot find the path specified: '.........\\viewstate MAC failed. If this application is hosted by a Web Farm or cluster, ensure that _machineKey_ configuration specifies the same validationKey and validation algorithm. AutoGenerate cannot be used in a cluster._.html'
+Traceback (most recent call last):
+  File "dateCheck.py", line 54, in process
+    details = dateFunc(aFile, humanize=True)
+  File "dateCheck.py", line 39, in lastAccess
+    x = op.getatime(absFilePath)
+  File "C:\Program Files\Python36-32\lib\genericpath.py", line 60, in getatime
+    return os.stat(filename).st_atime
+FileNotFoundError: [WinError 3] The system cannot find the path specified: '.........\\viewstate MAC failed. If this application is hosted by a Web Farm or cluster, ensure that _machineKey_ configuration specifies the same validationKey and validation algorithm. AutoGenerate cannot be used in a cluster._.html'
+ERROR:root:Suppressed error at: [WinError 3] The system cannot find the path specified: '.........\\viewstate MAC failed. If this application is hosted by a Web Farm or cluster, ensure that _machineKey_ configuration specifies the same validationKey and validation algorithm. AutoGenerate cannot be used in a cluster._.html'
+Traceback (most recent call last):
+  File "dateCheck.py", line 54, in process
+    details = dateFunc(aFile, humanize=True)
+  File "dateCheck.py", line 39, in lastAccess
+    x = op.getatime(absFilePath)
+  File "C:\Program Files\Python36-32\lib\genericpath.py", line 60, in getatime
+    return os.stat(filename).st_atime
+FileNotFoundError: [WinError 3] The system cannot find the path specified: '.........\\viewstate MAC failed. If this application is hosted by a Web Farm or cluster, ensure that _machineKey_ configuration specifies the same validationKey and validation algorithm. AutoGenerate cannot be used in a cluster._.html'
+ERROR:root:Suppressed error at: [WinError 3] The system cannot find the path specified: '.........\\viewstate MAC failed. If this application is hosted by a Web Farm or cluster, ensure that _machineKey_ configuration specifies the same validationKey and validation algorithm. AutoGenerate cannot be used in a cluster._.html'
+Traceback (most recent call last):
+  File "dateCheck.py", line 54, in process
+    details = dateFunc(aFile, humanize=True)
+  File "dateCheck.py", line 43, in lastModify
+    x = op.getmtime(absFilePath)
+  File "C:\Program Files\Python36-32\lib\genericpath.py", line 55, in getmtime
+    return os.stat(filename).st_mtime
+FileNotFoundError: [WinError 3] The system cannot find the path specified: '.........\\viewstate MAC failed. If this application is hosted by a Web Farm or cluster, ensure that _machineKey_ configuration specifies the same validationKey and validation algorithm. AutoGenerate cannot be used in a cluster._.html'
+ERROR:root:Suppressed error at: [WinError 3] The system cannot find the path specified: '.........\\viewstate MAC failed. If this application is hosted by a Web Farm or cluster, ensure that _machineKey_ configuration specifies the same validationKey and validation algorithm. AutoGenerate cannot be used in a cluster._.html'
+Traceback (most recent call last):
+  File "dateCheck.py", line 54, in process
+    details = dateFunc(aFile, humanize=True)
+  File "dateCheck.py", line 39, in lastAccess
+    x = op.getatime(absFilePath)
+  File "C:\Program Files\Python36-32\lib\genericpath.py", line 60, in getatime
+    return os.stat(filename).st_atime
+FileNotFoundError: [WinError 3] The system cannot find the path specified: '.........\\viewstate MAC failed. If this application is hosted by a Web Farm or cluster, ensure that _machineKey_ configuration specifies the same validationKey and validation algorithm. AutoGenerate cannot be used in a cluster._.html'
+ERROR:root:Suppressed error at: [WinError 3] The system cannot find the path specified: '.........\\viewstate MAC failed. If this application is hosted by a Web Farm or cluster, ensure that _machineKey_ configuration specifies the same validationKey and validation algorithm. AutoGenerate cannot be used in a cluster._.html'
+Traceback (most recent call last):
+  File "dateCheck.py", line 54, in process
+    details = dateFunc(aFile, humanize=True)
+  File "dateCheck.py", line 39, in lastAccess
+    x = op.getatime(absFilePath)
+  File "C:\Program Files\Python36-32\lib\genericpath.py", line 60, in getatime
+    return os.stat(filename).st_atime
+FileNotFoundError: [WinError 3] The system cannot find the path specified: '.........\\viewstate MAC failed. If this application is hosted by a Web Farm or cluster, ensure that _machineKey_ configuration specifies the same validationKey and validation algorithm. AutoGenerate cannot be used in a cluster._.html'
